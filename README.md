@@ -8,11 +8,11 @@ I'm a backend dev motivated in learn more about programming.
 - Python (Django, DRF, Docker, SQL)
 
 ### Projects I Work On
-[eventeger](https://github.com/final-project-hha/final-project)
-[recipe-API](https://github.com/HugoLMFbd/recipe-app-api)
+- [eventeger](https://github.com/final-project-hha/final-project)
+- [recipe-API](https://github.com/HugoLMFbd/recipe-app-api)
 
 📫 reache me on:
-[LinkedIn Hugo's profile](https://www.linkedin.com/in/HugoLeonardoMartinez/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Hugo Martinez](https://www.linkedin.com/in/HugoLeonardoMartinez/)
 <!--
 **HugoLMFbd/HugoLMFbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
