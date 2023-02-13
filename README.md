@@ -1,18 +1,21 @@
 ## Hi I'm Hugo 👋
 I'm a backend dev motivated in learn more about programming.
 
-### I'm interested on
+### I'm interested on 🔭:
 - Learning with profesionals in the IT field.
 - Non-stop lerning about programming and technologies.
 - Working in teams that are happy to share their experiences and knowlage.
 - Python (Django, DRF, Docker, SQL)
 
-### Projects I Work On
+### Projects I'm Working On ⚡:
 - [eventeger](https://github.com/final-project-hha/final-project)
 - [recipe-API](https://github.com/HugoLMFbd/recipe-app-api)
 
 📫 reache me on:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Hugo Martinez](https://www.linkedin.com/in/HugoLeonardoMartinez/)
+
+> About me:
+> - 
 <!--
 **HugoLMFbd/HugoLMFbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
