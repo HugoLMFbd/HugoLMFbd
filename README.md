@@ -1,4 +1,4 @@
-## Hi I'm Hugo 👋
+## Hi I'm Hugo Martinez 👋
 I'm a backend developer motivated to learn more about programming,
 Recently, I took an intensive Python programming course.
 I'm a curious person who has been growing constantly for a year in the IT field.
@@ -18,7 +18,7 @@ I recently started, and I'm motivated and focused on my objectives with patience
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Hugo Martinez](https://www.linkedin.com/in/HugoLeonardoMartinez/)
 
 > About me:
-> - [Resume about me](Git_resume_curriculum.pdf)
+> - [Resumed curriculum](Git_resume_curriculum.pdf)
 <!--
 **HugoLMFbd/HugoLMFbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
