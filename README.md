@@ -14,7 +14,7 @@
 
 
 ## I'm Hugo Martinez 
-I'm a backend developer motivated to learn more about programming,
+I'm a backend developer motivated to learn more about programming.
 Recently, I took an intensive Python programming course.
 I'm a curious person who has been growing constantly for a year in the IT field.
 I recently started, and I'm motivated and focused on my objectives with patience and hard work.
