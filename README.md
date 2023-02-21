@@ -52,7 +52,7 @@ I recently started, and I'm motivated and focused on my objectives with patience
 - [eventeger](https://github.com/final-project-hha/final-project)
 - [recipe-API](https://github.com/HugoLMFbd/recipe-app-api)
 
-📫 Reache me on:
+📫 Reach me on:
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Hugo Martinez](https://www.linkedin.com/in/HugoLeonardoMartinez/)
 
 ---
